@@ -1,0 +1,15 @@
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\bin\Debug\net6.0\Microservice.Application.deps.json
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\bin\Debug\net6.0\Microservice.Application.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\bin\Debug\net6.0\Microservice.Application.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\bin\Debug\net6.0\Microservice.Domain.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\bin\Debug\net6.0\Microservice.Domain.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\Microservice.Application.csproj.AssemblyReference.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\Microservice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\Microservice.Application.AssemblyInfoInputs.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\Microservice.Application.AssemblyInfo.cs
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\Microservice.Application.csproj.CoreCompileInputs.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\Microservice.Application.csproj.CopyComplete
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\Microservice.Application.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\refint\Microservice.Application.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\Microservice.Application.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Application\obj\Debug\net6.0\ref\Microservice.Application.dll

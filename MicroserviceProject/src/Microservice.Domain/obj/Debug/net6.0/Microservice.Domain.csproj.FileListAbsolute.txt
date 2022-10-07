@@ -1,0 +1,12 @@
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\bin\Debug\net6.0\Microservice.Domain.deps.json
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\bin\Debug\net6.0\Microservice.Domain.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\bin\Debug\net6.0\Microservice.Domain.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\Microservice.Domain.csproj.AssemblyReference.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\Microservice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\Microservice.Domain.AssemblyInfoInputs.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\Microservice.Domain.AssemblyInfo.cs
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\Microservice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\Microservice.Domain.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\refint\Microservice.Domain.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\Microservice.Domain.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\src\Microservice.Domain\obj\Debug\net6.0\ref\Microservice.Domain.dll

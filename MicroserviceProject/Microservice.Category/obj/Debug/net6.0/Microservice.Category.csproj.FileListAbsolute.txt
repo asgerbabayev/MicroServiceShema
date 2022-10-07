@@ -1,0 +1,5 @@
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Category\obj\Debug\net6.0\Microservice.Category.csproj.AssemblyReference.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Category\obj\Debug\net6.0\Microservice.Category.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Category\obj\Debug\net6.0\Microservice.Category.AssemblyInfoInputs.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Category\obj\Debug\net6.0\Microservice.Category.AssemblyInfo.cs
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Category\obj\Debug\net6.0\Microservice.Category.csproj.CoreCompileInputs.cache

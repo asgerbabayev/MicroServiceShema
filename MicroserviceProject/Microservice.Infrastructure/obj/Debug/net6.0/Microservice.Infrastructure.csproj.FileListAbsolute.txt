@@ -1,0 +1,17 @@
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\bin\Debug\net6.0\Microservice.Infrastructure.deps.json
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\bin\Debug\net6.0\Microservice.Infrastructure.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\bin\Debug\net6.0\Microservice.Infrastructure.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\Microservice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\Microservice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\Microservice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\Microservice.Infrastructure.AssemblyInfo.cs
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\Microservice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\Microservice.Infrastructure.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\refint\Microservice.Infrastructure.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\Microservice.Infrastructure.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\ref\Microservice.Infrastructure.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\bin\Debug\net6.0\Microservice.Application.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\bin\Debug\net6.0\Microservice.Domain.dll
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\bin\Debug\net6.0\Microservice.Application.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\bin\Debug\net6.0\Microservice.Domain.pdb
+C:\Users\asgar.pb\Desktop\Tasks\MicroserviceProject\Microservice.Infrastructure\obj\Debug\net6.0\Microservice.Infrastructure.csproj.CopyComplete
